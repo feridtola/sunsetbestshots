@@ -1,0 +1,33 @@
+html{
+  background-color: black;
+}
+body{
+    background-color: black;
+}
+#photos{
+  text-align: center;
+}
+
+  .fa-instagram {
+    background: #f4f4f4;
+    color: white;
+  }
+  
+  #cSel{
+    padding-right: 10%;
+    padding-left: 10%;
+  }
+
+  #footer{
+    margin-top: 5%;
+    text-align: center;
+   
+  }
+
+  
+  #instagram{
+    background-color: black;
+    padding-left: 50%;
+   padding-top: 5%;
+  }
+ 
